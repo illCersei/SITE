@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+redis
+fastapi-cache2
+sqlalchemy
+asyncpg
+pydantic
+python-dotenv
+pydantic_settings
