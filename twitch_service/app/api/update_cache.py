@@ -37,4 +37,4 @@ async def update_cache():
             await cache_backend.set("cached_viewers", viewers_json, expire=300)
 
         print("[INFO] Кэш обновлён!")
-        await asyncio.sleep(300)  
+        await asyncio.sleep(120)  
